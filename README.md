@@ -1,2 +1,2 @@
-# jb_academy_study
-Studying projects at JetBrains Academy
+# jb_academy_study_java
+Studying Java projects at JetBrains Academy
